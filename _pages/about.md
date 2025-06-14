@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of New Mexico, advised by [Milad Marvian](http://www.unm.edu/~mmarvian/). Before starting my Ph.D., I obtained my bachelors degrees in physics and mathematics at Cornell University.
+I'm a PhD candidate in the Department of Electrical and Computer Engineering at the University of New Mexico, advised by [Milad Marvian](http://www.unm.edu/~mmarvian/). Before starting my PhD, I obtained my bachelors degrees in physics and mathematics at Cornell University.
 
 My research focuses on quantum control, quantum simulation, quantum algorithms, and quantum machine learning. Recently, I've been thinking about designing new quantum control protocols that provably outperform existing techniques.
 
