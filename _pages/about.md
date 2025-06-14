@@ -53,4 +53,4 @@ Email: leeseok [at] unm [dot] edu
 - **Quantum convolutional neural network for classical data classification**    
   Tak Hur, Leeseok Kim (co-first authors), Daniel K. Park  
   *Quantum Machine Intelligence 4 (1), 3*, 2022  
-  [[Journal]](https://link.springer.com/article/10.1007/s42484-021-00061-x) [[arXiv]](https://arxiv.org/abs/2405.05506)  
+  [[Journal]](https://link.springer.com/article/10.1007/s42484-021-00061-x) [[arXiv]](https://arxiv.org/abs/2108.00661)  
