@@ -30,9 +30,7 @@ My research focuses on quantum control, quantum simulation, quantum algorithms, 
 
 Email: leeseok [at] unm [dot] edu 
 
-[<i class="ai ai-google-scholar ai-2x"></i>](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao)
-
-### Publications
+### Publications ([<i class="ai ai-google-scholar ai-2x"></i>](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao))
 
 - **Faster Randomized Dynamical Decoupling**  
   Changhao Yi, Leeseok Kim, Milad Marvian  
