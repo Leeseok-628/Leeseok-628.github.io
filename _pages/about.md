@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: left
+  align: right
   image: pic1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -33,24 +33,24 @@ Email: leeseok [at] unm [dot] edu
 ### Publications 
 (also see [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao))
 
-- **Faster Randomized Dynamical Decoupling**  
-  Changhao Yi, Leeseok Kim, Milad Marvian  
-  *arXiv:2409.18369*, 2024  
-  Accepted as a talk at QSim 2025  
-  [[arXiv]](https://arxiv.org/abs/2409.18369)
+**Faster Randomized Dynamical Decoupling**  
+Changhao Yi, Leeseok Kim, Milad Marvian  
+*arXiv:2409.18369*, 2024  
+Accepted as a talk at QSim 2025  
+[[arXiv]](https://arxiv.org/abs/2409.18369)
 
-- **Hamiltonian Quantum Generative Adversarial Networks**  
-  Leeseok Kim, Seth Lloyd, Milad Marvian  
-  *Physical Review Research 6 (3), 033019*, 2024  
-  Accepted as a talk at AQC 2023  
-  [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033019) [[arXiv]](https://arxiv.org/abs/2211.02584)
+**Hamiltonian Quantum Generative Adversarial Networks**  
+Leeseok Kim, Seth Lloyd, Milad Marvian  
+*Physical Review Research 6 (3), 033019*, 2024  
+Accepted as a talk at AQC 2023  
+[[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033019) [[arXiv]](https://arxiv.org/abs/2211.02584)
 
-- **On the Moments of the Number of Hires in the Assistant Hiring Algorithm**  
-  Leeseok Kim, José Luis Palacios  
-  *Algorithms 16 (2), 70*, 2023  
-  [[Journal]](https://www.mdpi.com/1999-4893/16/2/70)
+**On the Moments of the Number of Hires in the Assistant Hiring Algorithm**  
+Leeseok Kim, José Luis Palacios  
+*Algorithms 16 (2), 70*, 2023  
+[[Journal]](https://www.mdpi.com/1999-4893/16/2/70)
 
-- **Quantum convolutional neural network for classical data classification**    
-  Tak Hur, Leeseok Kim (co-first authors), Daniel K. Park  
-  *Quantum Machine Intelligence 4 (1), 3*, 2022  
-  [[Journal]](https://link.springer.com/article/10.1007/s42484-021-00061-x) [[arXiv]](https://arxiv.org/abs/2108.00661)  
+**Quantum convolutional neural network for classical data classification**    
+Tak Hur, Leeseok Kim (co-first authors), Daniel K. Park  
+*Quantum Machine Intelligence 4 (1), 3*, 2022  
+[[Journal]](https://link.springer.com/article/10.1007/s42484-021-00061-x) [[arXiv]](https://arxiv.org/abs/2108.00661)  
