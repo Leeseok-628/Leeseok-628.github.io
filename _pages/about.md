@@ -36,7 +36,7 @@ Email: leeseok [at] unm [dot] edu
 **Faster Randomized Dynamical Decoupling**  
 Changhao Yi, Leeseok Kim, Milad Marvian  
 *arXiv:2409.18369*, 2024  
-Accepted as a talk at QSim 2025  
+Accepted as a talk at QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s)
 [[arXiv]](https://arxiv.org/abs/2409.18369)
 
 **Hamiltonian Quantum Generative Adversarial Networks**  
