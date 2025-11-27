@@ -33,6 +33,11 @@ Email: leeseok [at] unm [dot] edu
 ### Publications 
 (also see [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao))
 
+**High-order Zeno sequences**  
+Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz  
+*arXiv:2511.20792*, 2025  
+[[arXiv]](https://arxiv.org/abs/2511.20792)
+
 **Faster Randomized Dynamical Decoupling**  
 Changhao Yi, Leeseok Kim, Milad Marvian  
 *arXiv:2409.18369*, 2024  
