@@ -37,7 +37,7 @@ Email: leeseok [at] unm [dot] edu
 Changhao Yi, Leeseok Kim, Milad Marvian  
 *Physical Review Letters 136, 010601*, 2026   
 Accepted as a talk at QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s)  
-[[Journal]](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl)[[arXiv]](https://arxiv.org/abs/2409.18369)
+[[Journal]](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl) [[arXiv]](https://arxiv.org/abs/2409.18369)
 
 **High-order Zeno sequences**  
 Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz  
