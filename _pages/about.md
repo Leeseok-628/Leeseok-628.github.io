@@ -33,16 +33,16 @@ Email: leeseok [at] unm [dot] edu
 ### Publications 
 (also see [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao))
 
+**Faster Randomized Dynamical Decoupling**  
+Changhao Yi, Leeseok Kim, Milad Marvian  
+*Physical Review Letters 136, 010601*, 2026   
+Accepted as a talk at QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s)  
+[[Journal]](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl)[[arXiv]](https://arxiv.org/abs/2409.18369)
+
 **High-order Zeno sequences**  
 Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz  
 *arXiv:2511.20792*, 2025  
 [[arXiv]](https://arxiv.org/abs/2511.20792)
-
-**Faster Randomized Dynamical Decoupling**  
-Changhao Yi, Leeseok Kim, Milad Marvian  
-*arXiv:2409.18369*, 2024  
-Accepted as a talk at QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s)  
-[[arXiv]](https://arxiv.org/abs/2409.18369)
 
 **Hamiltonian Quantum Generative Adversarial Networks**  
 Leeseok Kim, Seth Lloyd, Milad Marvian  
