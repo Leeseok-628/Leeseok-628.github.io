@@ -33,29 +33,34 @@ Email: leeseok [at] unm [dot] edu
 ### Publications 
 (also see [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao))
 
+**High-order dynamical decoupling in the weak-coupling regime**  
+Leeseok Kim, Milad Marvian  
+*arXiv:2602.05343* (2026)  
+[[arXiv]](https://arxiv.org/abs/2602.05343)
+
 **Faster Randomized Dynamical Decoupling**  
 Changhao Yi, Leeseok Kim, Milad Marvian  
-*Physical Review Letters 136, 010601*, 2026   
+*Physical Review Letters 136, 010601* (2026)   
 Accepted as a talk at QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s)  
 [[Journal]](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl) [[arXiv]](https://arxiv.org/abs/2409.18369)
 
 **High-order Zeno sequences**  
 Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz  
-*arXiv:2511.20792*, 2025  
+*arXiv:2511.20792* (2025)  
 [[arXiv]](https://arxiv.org/abs/2511.20792)
 
 **Hamiltonian Quantum Generative Adversarial Networks**  
 Leeseok Kim, Seth Lloyd, Milad Marvian  
-*Physical Review Research 6 (3), 033019*, 2024  
+*Physical Review Research 6 (3), 033019* (2024)  
 Accepted as a talk at AQC 2023  
 [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033019) [[arXiv]](https://arxiv.org/abs/2211.02584)
 
 **On the Moments of the Number of Hires in the Assistant Hiring Algorithm**  
 Leeseok Kim, José Luis Palacios  
-*Algorithms 16 (2), 70*, 2023  
+*Algorithms 16 (2), 70* (2023)  
 [[Journal]](https://www.mdpi.com/1999-4893/16/2/70)
 
 **Quantum convolutional neural network for classical data classification**    
 Tak Hur, Leeseok Kim (co-first authors), Daniel K. Park  
-*Quantum Machine Intelligence 4 (1), 3*, 2022  
+*Quantum Machine Intelligence 4 (1), 3* (2022)  
 [[Journal]](https://link.springer.com/article/10.1007/s42484-021-00061-x) [[arXiv]](https://arxiv.org/abs/2108.00661)  
