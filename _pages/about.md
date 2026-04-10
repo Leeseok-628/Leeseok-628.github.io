@@ -33,6 +33,11 @@ Email: leeseok [at] unm [dot] edu
 ### Publications 
 (also see [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao))
 
+**Robust high-order quantum simulation using finite-width pulses**  
+Leeseok Kim, Milad Marvian  
+*arXiv:2603.15502* (2026)  
+[[arXiv]](https://arxiv.org/abs/2603.15502)
+
 **High-order dynamical decoupling in the weak-coupling regime**  
 Leeseok Kim, Milad Marvian  
 *arXiv:2602.05343* (2026)  
