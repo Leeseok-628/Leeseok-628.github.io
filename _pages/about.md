@@ -66,6 +66,6 @@ Leeseok Kim, José Luis Palacios
 [[Journal]](https://www.mdpi.com/1999-4893/16/2/70)
 
 **Quantum convolutional neural network for classical data classification**    
-Tak Hur*, Leeseok Kim*, Daniel K. Park  
+Tak Hur\*, Leeseok Kim\*, Daniel K. Park  
 *Quantum Machine Intelligence 4 (1), 3* (2022)  
 [[Journal]](https://link.springer.com/article/10.1007/s42484-021-00061-x) [[arXiv]](https://arxiv.org/abs/2108.00661)  
