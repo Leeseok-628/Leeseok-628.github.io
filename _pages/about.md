@@ -30,8 +30,8 @@ My research focuses on quantum control, quantum simulation, and quantum algorith
 
 Email: leeseok [at] unm [dot] edu 
 
-### Publications 
-(also see [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao))
+### Publications  
+(See also [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao).  \* Equal contribution.)
 
 **Robust high-order quantum simulation using finite-width pulses**  
 Leeseok Kim, Milad Marvian  
@@ -66,6 +66,6 @@ Leeseok Kim, José Luis Palacios
 [[Journal]](https://www.mdpi.com/1999-4893/16/2/70)
 
 **Quantum convolutional neural network for classical data classification**    
-Tak Hur, Leeseok Kim (co-first authors), Daniel K. Park  
+Tak Hur*, Leeseok Kim*, Daniel K. Park  
 *Quantum Machine Intelligence 4 (1), 3* (2022)  
 [[Journal]](https://link.springer.com/article/10.1007/s42484-021-00061-x) [[arXiv]](https://arxiv.org/abs/2108.00661)  
