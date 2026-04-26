@@ -51,8 +51,8 @@ Accepted as a talk at QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?
 
 **High-order Zeno sequences**  
 Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz  
-*arXiv:2511.20792* (2025)  
-[[arXiv]](https://arxiv.org/abs/2511.20792)
+*Physical Review Research 8 (2), 023051* (2026)  
+[[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/glcd-gm3v) [[arXiv]](https://arxiv.org/abs/2511.20792)
 
 **Hamiltonian Quantum Generative Adversarial Networks**  
 Leeseok Kim, Seth Lloyd, Milad Marvian  
