@@ -24,14 +24,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD candidate in the Department of Electrical and Computer Engineering at the University of New Mexico, advised by [Milad Marvian](http://www.unm.edu/~mmarvian/). Before starting my PhD, I obtained my bachelors degrees in physics and mathematics at Cornell University.
+Hey! I'm a postdoctoral researcher at the University of New Mexico, based primarily in the Theoretical Division (T-4) at Los Alamos National Laboratory, where I work with [Luis Pedro García-Pintos](https://www.lpgarciapintos.com/). I completed my PhD in Computer Engineering at the University of New Mexico under the supervision of [Milad Marvian](http://www.unm.edu/~mmarvian/). Before starting my PhD, I earned bachelor's degrees in Physics and Mathematics from Cornell University.
 
-My research focuses on quantum control, quantum simulation, and quantum algorithms. Recently, I’ve been thinking about designing new quantum control protocols that provably outperform existing methods. I'm also broadly interested in open quantum systems and learning theory.
+I am broadly interested in the theoretical aspects of quantum computing, including quantum algorithms and simulation, quantum control theory, and open quantum systems. More recently, I became interested in quantum thermodynamics, quantum error correction, and quantum learning theory.
+
+I am always open to new collaborations. Please feel free to contact me at the email address below.
 
 Email: leeseok [at] unm [dot] edu 
 
 ### Publications  
 (See also [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao).  \* Equal contribution.)
+
+**Randomized Quantum Optimal Control**  
+Leeseok Kim, Francisco Riberi, Kevin Baca, Milad Marvian  
+*arXiv:2607.10946* (2026)  
+[[arXiv]](https://arxiv.org/abs/2607.10946)
 
 **Robust high-order quantum simulation using finite-width pulses**  
 Leeseok Kim, Milad Marvian  
