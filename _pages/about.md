@@ -35,6 +35,11 @@ Email: leeseok [at] unm [dot] edu
 ### Publications  
 (See also [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao).  \* Equal contribution.)
 
+**Randomized product formulas beyond optimal deterministic scaling**  
+Leeseok Kim, Luis Pedro García-Pintos  
+*arXiv:2608.07720* (2026)  
+[[arXiv]](https://arxiv.org/abs/2608.07720)
+
 **Randomized Quantum Optimal Control**  
 Leeseok Kim, Francisco Riberi, Kevin Baca, Milad Marvian  
 *arXiv:2607.10946* (2026)  
@@ -53,7 +58,7 @@ Leeseok Kim, Milad Marvian
 **Faster Randomized Dynamical Decoupling**  
 Changhao Yi, Leeseok Kim, Milad Marvian  
 *Physical Review Letters 136, 010601* (2026)   
-Accepted as a talk at QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s)  
+Contributed talks: QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s), SQuINT 2025  
 [[Journal]](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl) [[arXiv]](https://arxiv.org/abs/2409.18369)
 
 **High-order Zeno sequences**  
@@ -64,7 +69,7 @@ Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz
 **Hamiltonian Quantum Generative Adversarial Networks**  
 Leeseok Kim, Seth Lloyd, Milad Marvian  
 *Physical Review Research 6 (3), 033019* (2024)  
-Accepted as a talk at AQC 2023  
+Contributed talk: AQC 2023  
 [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033019) [[arXiv]](https://arxiv.org/abs/2211.02584)
 
 **On the Moments of the Number of Hires in the Assistant Hiring Algorithm**  
