@@ -58,7 +58,7 @@ Leeseok Kim, Milad Marvian
 **Faster Randomized Dynamical Decoupling**  
 Changhao Yi, Leeseok Kim, Milad Marvian  
 *Physical Review Letters 136, 010601* (2026)   
-Contributed talks: QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s), SQuINT 2025  
+Contributed talks: QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s), SQuInT 2025  
 [[Journal]](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl) [[arXiv]](https://arxiv.org/abs/2409.18369)
 
 **High-order Zeno sequences**  
