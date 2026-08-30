@@ -1,3 +1,40 @@
+$literata: "Literata", Georgia, "Times New Roman", serif;
+
+body {
+  font-family: $literata;
+  font-size: 16.5px;
+  font-weight: 400;
+  line-height: 1.65;
+  font-optical-sizing: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $literata;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+article p > strong {
+  font-weight: 600;
+}
+
+h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+
+
+
 a {
   color: #003366; // 
 }
