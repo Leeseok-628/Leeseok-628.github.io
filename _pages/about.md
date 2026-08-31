@@ -46,7 +46,7 @@ Email: leeseok [at] unm [dot] edu
 
 {% details 2025 %}
 
-**Aug 2025** &emsp; I presented “Faster Randomized Dynamical Decoupling” at QSim 2025. [[Recorded Talk](https://www.youtube.com/watch?t=1s&v=yHpMD2LK5gk)]
+**Aug 2025** &emsp; I presented “Faster Randomized Dynamical Decoupling” at [QSim 2025](https://qsim2025.qsimconference.org/talk/faster-randomized-dynamical-decoupling/). [[Recorded Talk](https://www.youtube.com/watch?t=1s&v=yHpMD2LK5gk)]
 
 {% enddetails %}
 
