@@ -38,7 +38,7 @@ Email: leeseok [at] unm [dot] edu
 
 **Jul 2026** &nbsp;&nbsp;&emsp; I joined [Quantum and Condensed Matter Physics Group (T-4) at LANL](https://www.lpgarciapintos.com/) as a postdoc!  
 
-**Mar 2026** &#8239;&emsp; I defended my PhD!  
+**Mar 2026** &thinsp;&emsp; I defended my PhD!  
 
 **Feb 2026** &nbsp;&emsp; New preprint: "High-order dynamical decoupling in the weak-coupling regime" on [arXiv](https://arxiv.org/abs/2602.05343).  
 
@@ -48,7 +48,7 @@ Email: leeseok [at] unm [dot] edu
 
 **Oct 2025** &nbsp;&emsp; I presented “Faster Randomized Dynamical Decoupling” at [SQuInT 2025](https://squint.unm.edu/events/2025.html).   
 
-**Aug 2025** &#8239;&emsp; I presented “Faster Randomized Dynamical Decoupling” at [QSim 2025](https://qsim2025.qsimconference.org/talk/faster-randomized-dynamical-decoupling/). [[Recorded Talk](https://www.youtube.com/watch?t=1s&v=yHpMD2LK5gk)]  
+**Aug 2025** &thinsp;&emsp; I presented “Faster Randomized Dynamical Decoupling” at [QSim 2025](https://qsim2025.qsimconference.org/talk/faster-randomized-dynamical-decoupling/). [[Recorded Talk](https://www.youtube.com/watch?t=1s&v=yHpMD2LK5gk)]  
 
 **Jun 2025** &nbsp;&emsp; I launched this website!
 
