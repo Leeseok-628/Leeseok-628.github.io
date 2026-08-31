@@ -38,11 +38,13 @@ Email: leeseok [at] unm [dot] edu
 
 **Jul 2026** &nbsp;&nbsp;&emsp; I joined [Quantum and Condensed Matter Physics Group (T-4) at LANL](https://www.lpgarciapintos.com/) as a postdoc!  
 
-**Mar 2026** &emsp; I defended my PhD!  
+**Mar 2026** &nbsp;&emsp; I defended my PhD!  
 
 **Jan 2026** &nbsp;&emsp; "Faster Randomized Dynamical Decoupling" was published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl).  
 
 {% details 2025 %}
+
+**Oct 2025** &nbsp;&emsp; I presented “Faster Randomized Dynamical Decoupling” at [SQuInT 2025](https://squint.unm.edu/events/2025.html).   
 
 **Aug 2025** &emsp; I presented “Faster Randomized Dynamical Decoupling” at [QSim 2025](https://qsim2025.qsimconference.org/talk/faster-randomized-dynamical-decoupling/). [[Recorded Talk](https://www.youtube.com/watch?t=1s&v=yHpMD2LK5gk)]  
 
