@@ -24,11 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a postdoctoral researcher at the University of New Mexico, based primarily in the Theoretical Division (T-4) at Los Alamos National Laboratory, where I work with [Luis Pedro García-Pintos](https://www.lpgarciapintos.com/). I completed my PhD in Computer Engineering at the University of New Mexico under the supervision of [Milad Marvian](http://www.unm.edu/~mmarvian/). Before starting my PhD, I earned bachelor's degrees in Physics and Mathematics from Cornell University.
+I'm a postdoctoral researcher at the University of New Mexico, based primarily in the Theoretical Division (T-4) at Los Alamos National Laboratory, where I work with [Luis Pedro García-Pintos](https://www.lpgarciapintos.com/). I completed my PhD in Computer Engineering at the University of New Mexico under the supervision of [Milad Marvian](http://www.unm.edu/~mmarvian/). Before that, I earned bachelor's degrees in Physics and Mathematics from Cornell University.
 
-I am broadly interested in the theoretical aspects of quantum computing, including quantum algorithms and simulation, quantum control theory, and open quantum systems. More recently, I became interested in quantum thermodynamics, quantum error correction, and quantum learning theory.
-
-I am always open to new collaborations. Please feel free to contact me at the email address below.
+These days, I mostly (though not exclusively) think about how quickly quantum systems thermalize and when randomization can improve quantum protocols. During my PhD, I focused on developing new ways to control quantum systems and protect them from noise. More broadly, I am interested in the theoretical aspects of quantum computing, including quantum algorithms, simulations, error suppression/correction, and open quantum systems.
 
 Email: leeseok [at] unm [dot] edu 
 
@@ -38,15 +36,17 @@ Email: leeseok [at] unm [dot] edu
 
 **Jul 2026** &nbsp;&nbsp;&emsp; New preprint: "Randomized Quantum Optimal Control" on [arXiv](https://arxiv.org/abs/2607.10946).  
 
-**Jul 2026** &nbsp;&nbsp;&emsp; I joined [Quantum and Condensed Matter Physics Group (T-4) at LANL](https://www.lpgarciapintos.com/) as a postdoctoral researcher.  
+**Jul 2026** &nbsp;&nbsp;&emsp; I joined [Quantum and Condensed Matter Physics Group (T-4) at LANL](https://www.lpgarciapintos.com/) as a postdoc!  
 
-**Mar 2026** &emsp; I defended my PhD dissertation at the University of New Mexico.  
+**Mar 2026** &emsp; I defended my PhD!  
 
 **Jan 2026** &nbsp;&emsp; "Faster Randomized Dynamical Decoupling" was published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl).  
 
 {% details 2025 %}
 
-**Aug 2025** &emsp; I presented “Faster Randomized Dynamical Decoupling” at [QSim 2025](https://qsim2025.qsimconference.org/talk/faster-randomized-dynamical-decoupling/). [[Recorded Talk](https://www.youtube.com/watch?t=1s&v=yHpMD2LK5gk)]
+**Aug 2025** &emsp; I presented “Faster Randomized Dynamical Decoupling” at [QSim 2025](https://qsim2025.qsimconference.org/talk/faster-randomized-dynamical-decoupling/). [[Recorded Talk](https://www.youtube.com/watch?t=1s&v=yHpMD2LK5gk)]  
+
+**Jun 2025** &nbsp;&emsp; I launched this website!
 
 {% enddetails %}
 
