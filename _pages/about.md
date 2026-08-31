@@ -44,6 +44,11 @@ Email: leeseok [at] unm [dot] edu
 
 **Jan 2026** &nbsp;&emsp; "Faster Randomized Dynamical Decoupling" was published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl).  
 
+{% details 2025 %}
+
+**Aug 2025** &emsp; I presented “Faster Randomized Dynamical Decoupling” at QSim 2025. [[Recorded Talk](https://www.youtube.com/watch?t=1s&v=yHpMD2LK5gk)]
+
+{% enddetails %}
 
 ### Publications  
 (See also [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao).  \* Equal contribution.)
