@@ -32,7 +32,15 @@ I am always open to new collaborations. Please feel free to contact me at the em
 
 Email: leeseok [at] unm [dot] edu 
 
-### Publications  
+## News  
+
+- **Aug. 2026** — New preprint: “Randomized product formulas beyond optimal deterministic scaling” on [arXiv](https://arxiv.org/abs/2608.07720).
+- **Jul. 2026** — New preprint: "Randomized Quantum Optimal Control" on [arXiv](https://arxiv.org/abs/2607.10946).
+- **Jul. 2026** — I joined [Quantum and Condensed Matter Physics Group (T-4) at LANL](https://www.lpgarciapintos.com/) as a postdoctoral researcher.
+- **Mar. 2026** — I defended my PhD dissertation at the University of New Mexico.
+- **Jan. 2026** — "Faster Randomized Dynamical Decoupling" was published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl).  
+
+## Publications  
 (See also [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao).  \* Equal contribution.)
 
 **Randomized product formulas beyond optimal deterministic scaling**  
@@ -51,14 +59,14 @@ Leeseok Kim, Milad Marvian
 Leeseok Kim, Milad Marvian  
 [arXiv:2602.05343](https://arxiv.org/abs/2602.05343) (2026)  
 
+**High-order Zeno sequences**  
+Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz  
+[Physical Review Research 8 (2), 023051](https://journals.aps.org/prresearch/abstract/10.1103/glcd-gm3v) (2026), [[arXiv]](https://arxiv.org/abs/2511.20792)  
+
 **Faster Randomized Dynamical Decoupling**  
 Changhao Yi, Leeseok Kim, Milad Marvian  
 [Physical Review Letters 136, 010601](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl) (2026), [[arXiv]](https://arxiv.org/abs/2409.18369)   
 Contributed talks: QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s), SQuInT 2025  
-
-**High-order Zeno sequences**  
-Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz  
-[Physical Review Research 8 (2), 023051](https://journals.aps.org/prresearch/abstract/10.1103/glcd-gm3v) (2026), [[arXiv]](https://arxiv.org/abs/2511.20792)  
 
 **Hamiltonian Quantum Generative Adversarial Networks**  
 Leeseok Kim, Seth Lloyd, Milad Marvian  
