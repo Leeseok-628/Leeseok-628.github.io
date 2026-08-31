@@ -32,15 +32,20 @@ I am always open to new collaborations. Please feel free to contact me at the em
 
 Email: leeseok [at] unm [dot] edu 
 
-## News  
+### News  
 
-- **Aug. 2026** — New preprint: “Randomized product formulas beyond optimal deterministic scaling” on [arXiv](https://arxiv.org/abs/2608.07720).
-- **Jul. 2026** — New preprint: "Randomized Quantum Optimal Control" on [arXiv](https://arxiv.org/abs/2607.10946).
-- **Jul. 2026** — I joined [Quantum and Condensed Matter Physics Group (T-4) at LANL](https://www.lpgarciapintos.com/) as a postdoctoral researcher.
-- **Mar. 2026** — I defended my PhD dissertation at the University of New Mexico.
-- **Jan. 2026** — "Faster Randomized Dynamical Decoupling" was published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl).  
+**Aug 2026** &emsp; New preprint: “Randomized product formulas beyond optimal deterministic scaling” on [arXiv](https://arxiv.org/abs/2608.07720).  
 
-## Publications  
+**Jul 2026** &nbsp;&nbsp;&emsp; New preprint: "Randomized Quantum Optimal Control" on [arXiv](https://arxiv.org/abs/2607.10946).  
+
+**Jul 2026** &nbsp;&nbsp;&emsp; I joined [Quantum and Condensed Matter Physics Group (T-4) at LANL](https://www.lpgarciapintos.com/) as a postdoctoral researcher.  
+
+**Mar 2026** &emsp; I defended my PhD dissertation at the University of New Mexico.  
+
+**Jan 2026** &nbsp;&emsp; "Faster Randomized Dynamical Decoupling" was published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl).  
+
+
+### Publications  
 (See also [Google Scholar](https://scholar.google.com/citations?user=7pRV2MAl3wcC&hl=en&oi=ao).  \* Equal contribution.)
 
 **Randomized product formulas beyond optimal deterministic scaling**  
