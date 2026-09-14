@@ -73,7 +73,7 @@ Leeseok Kim, Milad Marvian
 
 **High-order dynamical decoupling in the weak-coupling regime**  
 Leeseok Kim, Milad Marvian  
-[arXiv:2602.05343](https://arxiv.org/abs/2602.05343) (2026)  
+[Physical Review Letters 137, 120801](https://journals.aps.org/prl/abstract/10.1103/bvkl-8pq2) (2026), [[arXiv]](https://arxiv.org/abs/2602.05343)   
 
 **High-order Zeno sequences**  
 Kasra Rajabzadeh Dizaji, Leeseok Kim, Milad Marvian, Christian Arenz  
