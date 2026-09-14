@@ -32,6 +32,8 @@ Email: leeseok [at] unm [dot] edu
 
 ### News  
 
+**Sep 2026** &emsp; "High-order dynamical decoupling in the weak-coupling regime" was published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/bvkl-8pq2).  
+
 **Aug 2026** &emsp; New preprint: “Randomized product formulas beyond optimal deterministic scaling” on [arXiv](https://arxiv.org/abs/2608.07720).  
 
 **Jul 2026** &nbsp;&nbsp;&emsp; New preprint: "Randomized Quantum Optimal Control" on [arXiv](https://arxiv.org/abs/2607.10946).  
