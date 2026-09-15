@@ -42,3 +42,8 @@ img[src*="gs.jpeg"] {
   max-width: 200px !important;
   height: auto !important;
 }
+
+.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link,
+.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
+  color: #003366;
+}
