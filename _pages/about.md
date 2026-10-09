@@ -30,6 +30,14 @@ These days, I mostly (though not exclusively) think about how quickly quantum sy
 
 Email: leeseok [at] unm [dot] edu 
 
+<p>
+  <a href="https://scholar.google.com/citations?user=7pRV2MAl3wcC"
+     target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  &nbsp; | &nbsp;
+  <a href="{{ '/assets/pdf/Leeseok_Kim_CV.pdf' | relative_url }}"
+     target="_blank" rel="noopener noreferrer">CV (PDF)</a>
+</p>
+
 ### News  
 
 **Sep 2026** &emsp; "High-order dynamical decoupling in the weak-coupling regime" is published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/bvkl-8pq2).  
