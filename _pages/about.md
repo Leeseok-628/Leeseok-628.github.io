@@ -56,7 +56,7 @@ Email: leeseok [at] unm [dot] edu
 
 {% enddetails %}
 
-### Selected Publications  
+### Selected Papers  
 
 **Rapid mixing of quantum spin chains at any finite temperature**  
 Leeseok Kim  
