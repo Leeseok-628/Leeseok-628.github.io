@@ -53,7 +53,7 @@ Email: leeseok [at] unm [dot] edu
 
 **Rapid mixing of quantum spin chains at any finite temperature**  
 Leeseok Kim  
-[arXiv:2608.07720](https://arxiv.org/abs/2608.07720) (2026)  
+[arXiv:2610.01190](https://arxiv.org/abs/2610.01190) (2026)  
 
 **Randomized product formulas beyond optimal deterministic scaling**  
 Leeseok Kim, Luis Pedro García-Pintos  
