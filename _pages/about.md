@@ -72,6 +72,6 @@ Leeseok Kim, Milad Marvian
 
 **Faster Randomized Dynamical Decoupling**  
 Changhao Yi, Leeseok Kim, Milad Marvian  
-[Physical Review Letters 136, 010601](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl) (2026), [[arXiv]](https://arxiv.org/abs/2409.18369)   
-Contributed talks: QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s), SQuInT 2025  
-
+[Physical Review Letters 136, 010601](https://journals.aps.org/prl/abstract/10.1103/fk7j-y1vl) (2026), [[arXiv]](https://arxiv.org/abs/2409.18369)  
+Presentations: QSim 2025 [[Recorded Talk]](https://www.youtube.com/watch?v=yHpMD2LK5gk&t=1s), SQuInT 2025  
+Media coverage: [UNM Newsroom](https://news.unm.edu/news/unm-study-shows-randomization-can-improve-quantum-computer-performance-in-presence-of-noise), [Phys.org](https://phys.org/news/2026-05-randomization-quantum-presence-noise.html)
